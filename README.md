@@ -8,32 +8,31 @@ It is designed to give recruiters and HRs a quick and clear overview of my backg
 
 ✨ Features
 
-🎨 Clean and modern UI
+        🎨 Clean and modern UI
 
-📱 Fully responsive (mobile‑friendly)
+        📱 Fully responsive (mobile‑friendly)
 
-📂 Projects showcase
+        📂 Projects showcase
 
-🎓 Skills and education sections
+        🎓 Skills and education sections
 
-🔧 Easy to maintain and update
+        🔧 Easy to maintain and update
 
 🛠️ Technologies Used
 
-🌐 HTML
+        🌐 HTML
 
-🎨 CSS
+        🎨 CSS
 
-⚙️ JavaScript
+        ⚙️ JavaScript
 
-🧩 Bootstrap
+        🧩 Bootstrap
 
-🚀 Run Locally
+        🚀 Run Locally
 
 Clone the repository
 git clone https://github.com/INDIRA375/INDIRA-PORTFOLIO.git
-Open in browser
-Open index.html in your web browser.
+
 
 ☁️ Deployment
 The portfolio is deployed using Vercel.
